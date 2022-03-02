@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyFIrstGitProject</string>
+    <string name="my_second_try_to_change_text">my second try to change text</string>
 </resources>
